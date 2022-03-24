@@ -6,6 +6,11 @@ Indywidualny projekt programistyczny - Dawid Bożek
 ## Zamysł projektu
 Pomysłem przewodnim mojego projektu będzie stworzenie aplikacji mobilnej na system Android, która ma na celu być wygodnym i szybkim sposobem do dostarczania ważnych informacji dla graczy "Genshin Impact". Będzie to zarówno baza postaci, możliwych do wyekwipowania broni czy optymalnych artefaktów w zależności od podejmowanego wyzwania. Projekt w domyśle ma nie być skomplikowany w obsłudze, aby experience użytkownika był jak najlepszy i bezproblemowy. Aplikacja będzie informować nas o istniejących i nadchodzących eventach w grze, pozwoli nastawić budzik, aby nie przegapić kluczowych godzin danego dnia oraz zasugeruje nam na podstawie posiadanych postaci jaką kompozycję druzyny powinniśmy rozwijać. Produkt głównie skupiony na designie i dostarczeniu trudnych do zapamiętania oraz zmieniających się informacji. 
 
+## Technologie
+Do przygotowania mojego projektu wykorzystam Kotlina, który pozwala na wykorzystanie potencjału JVM bez uczenia się nowych składni. Jest to język bezpośredni kompatybilny z Javą, dlatego będę wykorzystywał te technologie naprzemiennie. Spróbuję przynajmniej oprzeć cały front i end aplikacji na Kotlinie, jednak mogą dojść do tego nowe technologie. Skupię się na wykorzystaniu "Ktor'a" jako głownego frameworka na którym zamierzam oprzeć webową część aplikacji. Wykorzystam najprawdopodobniej również emulator androida w celu sprawdzania poszczególnych buildów.
+Środowisko w którym napiszę większość kodu będzie IntelliJ IDEA od JetBrains.
+Bazę danych zapewnie shostuję na Firebasie lub Jetstaxie, który pozwala na postawienie maszyny w bezproblemowy sposób i bez większej wiedzy w tym zakresie, której nie posiadam.
+
 ## Harmonogram
 
 # Faza pierwsza - Backend
