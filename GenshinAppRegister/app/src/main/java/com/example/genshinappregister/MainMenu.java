@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class MainMenu extends AppCompatActivity {
 
-    private Button testbutton;
+    private Button testbutton, calendarButton;
     GridView gridView;
 
     String[] number = new String[50];
@@ -30,6 +30,15 @@ public class MainMenu extends AppCompatActivity {
         //TODO ogarnij ten syf
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_gallery_item,number);
         gridView.setAdapter(adapter);
+
+        calendarButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainMenu.this, Calendar.class);
+                startActivity(intent);
+            }
+        });
+
         testbutton.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -41,6 +50,7 @@ public class MainMenu extends AppCompatActivity {
     }
     private void initViews(){
         testbutton = findViewById(R.id.testbutton);
+        calendarButton = findViewById(R.id.CalendarInto);
         gridView = findViewById(R.id.gridView);
     }
 }
