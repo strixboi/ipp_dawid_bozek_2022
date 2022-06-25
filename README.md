@@ -1,7 +1,10 @@
 # ipp_dawid_bozek_2022
 Indywidualny projekt programistyczny - Dawid Bożek
 
-
+##Podsumowanie
+Co udało się zrobić - działająca aplikacja mobilna, która łączy się z internetem, pozwala na zalogowanie, rejestracje, wykorzystanie modulu tworzenia postaci, odtwarzacz wideo, zakładka z eventami, prymitywny kalendarz.
+Co nie udało się zrobić - animacje, część networkingu, baza danych nie jest podpięta do ostatniej wersji na githubie, menu główne dalej nie jest w pełni funkcjonalne, brakuje jeszcze kilku pomniejszych funkcjonalności
+Osobiście uważam, że pomimo tylu problemów organizacyjnych udało mi się od zera stworzyć bazę do projektu który od teraz będę tylko bardziej rozwijał, zwłaszcza że dalej uczę się Javy i zasad Androida.
 
 ## Zamysł projektu
 Pomysłem przewodnim mojego projektu będzie stworzenie aplikacji mobilnej na system Android, która ma na celu być wygodnym i szybkim sposobem do dostarczania ważnych informacji dla graczy "Genshin Impact". Będzie to zarówno baza postaci, możliwych do wyekwipowania broni czy optymalnych artefaktów w zależności od podejmowanego wyzwania. Projekt w domyśle ma nie być skomplikowany w obsłudze, aby experience użytkownika był jak najlepszy i bezproblemowy. Aplikacja będzie informować nas o istniejących i nadchodzących eventach w grze, pozwoli nastawić budzik, aby nie przegapić kluczowych godzin danego dnia oraz zasugeruje nam na podstawie posiadanych postaci jaką kompozycję druzyny powinniśmy rozwijać. Produkt głównie skupiony na designie i dostarczeniu trudnych do zapamiętania oraz zmieniających się informacji. 
