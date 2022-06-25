@@ -14,14 +14,14 @@ Bazę danych zapewnie shostuję na Firebasie lub Jetstaxie, który pozwala na po
 ## Harmonogram
 
 # Faza pierwsza - Backend
-- Nauka Kotlina w celu stworzenia pierwszego prototypu (10-24.03)
-- Struktura aplikacji, pierwszy uruchomiony build (31.03)
-- Tworzenie konta, rejestracja (7.04)
-- Skrypt tworzenia kompozycji postaci (14.04)
+- Nauka Kotlina w celu stworzenia pierwszego prototypu (10-24.03) - zrobione w terminie
+- Struktura aplikacji, pierwszy uruchomiony build (31.03) - zrobione w terminie
+- Tworzenie konta, rejestracja (7.04) - opóźnienie
+- Skrypt tworzenia kompozycji postaci (14.04) - opóźnienie
 # Faza druga - Frontend
-- Praca nad grafikami, skończenie designu (21.04)
-- Tworzenie poszczególnych funkcjonalności od strony użytkownika (28.04)
-- Animacje i połączenie aplikacji backendowych z frontendowymi (5.05)
+- Praca nad grafikami, skończenie designu (21.04) - nie doszło do skutku
+- Tworzenie poszczególnych funkcjonalności od strony użytkownika (28.04) - skonczone
+- Animacje i połączenie aplikacji backendowych z frontendowymi (5.05) - nie było możliwości
 # Faza trzecia - Networking
 - Konfiguracja serwera, tworzenie bazy danych, praca z frameworkiem (19.06)
 - Konfiguracja relacji aplikacja-chmura (koniec czerwca)
