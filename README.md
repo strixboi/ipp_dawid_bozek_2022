@@ -1,7 +1,7 @@
 # ipp_dawid_bozek_2022
 Indywidualny projekt programistyczny - Dawid Bożek
 
-##Podsumowanie
+## Podsumowanie
 Co udało się zrobić - działająca aplikacja mobilna, która łączy się z internetem, pozwala na zalogowanie, rejestracje, wykorzystanie modulu tworzenia postaci, odtwarzacz wideo, zakładka z eventami, prymitywny kalendarz.
 Co nie udało się zrobić - animacje, część networkingu, baza danych nie jest podpięta do ostatniej wersji na githubie, menu główne dalej nie jest w pełni funkcjonalne, brakuje jeszcze kilku pomniejszych funkcjonalności
 Osobiście uważam, że pomimo tylu problemów organizacyjnych udało mi się od zera stworzyć bazę do projektu który od teraz będę tylko bardziej rozwijał, zwłaszcza że dalej uczę się Javy i zasad Androida.
